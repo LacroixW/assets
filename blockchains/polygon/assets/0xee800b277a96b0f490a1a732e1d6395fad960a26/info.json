@@ -1,0 +1,11 @@
+{
+    "name": "ARPA Token",
+    "symbol": "ARPA",
+    "type": "Polygon",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://arpachain.io/",
+    "explorer": "https://polygonscan.com/token/0xee800b277a96b0f490a1a732e1d6395fad960a26",
+    "status": "active",
+    "id": "0xee800b277a96b0f490a1a732e1d6395fad960a26"
+  }
